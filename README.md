@@ -47,8 +47,8 @@
 
 4. **Clone the Repository**: Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/Dreadwolf26/NecroRecon.git
-   cd NecroRecon
+   git clone https://github.com/Dreadwolf26/Necrorecon.git
+   cd Necrorecon
    ```
 
 5. **Run NecroRecon**: To run the tool, use the following command:
